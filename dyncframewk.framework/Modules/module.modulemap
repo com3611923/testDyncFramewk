@@ -1,0 +1,6 @@
+framework module dyncframewk {
+  umbrella header "dyncframewk.h"
+
+  export *
+  module * { export * }
+}
